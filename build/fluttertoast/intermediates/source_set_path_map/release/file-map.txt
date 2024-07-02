@@ -1,0 +1,12 @@
+io.github.ponnamkarthik.toast.fluttertoast-jetified-window-1.0.0-beta04-0 /Users/aviralsingh/.gradle/caches/transforms-3/04b12dc7f6ad0811e5891b6deea8fbdf/transformed/jetified-window-1.0.0-beta04/res
+io.github.ponnamkarthik.toast.fluttertoast-core-1.6.0-1 /Users/aviralsingh/.gradle/caches/transforms-3/14bd4cc6e21a03058a68f60dfbf147cb/transformed/core-1.6.0/res
+io.github.ponnamkarthik.toast.fluttertoast-jetified-window-java-1.0.0-beta04-2 /Users/aviralsingh/.gradle/caches/transforms-3/daa2470d3ea42a317b3d6abc2fa4bed9/transformed/jetified-window-java-1.0.0-beta04/res
+io.github.ponnamkarthik.toast.fluttertoast-jetified-annotation-experimental-1.1.0-3 /Users/aviralsingh/.gradle/caches/transforms-3/fec1b8991d2e7d30eceb133961f2b9d9/transformed/jetified-annotation-experimental-1.1.0/res
+io.github.ponnamkarthik.toast.fluttertoast-main-4 /Users/aviralsingh/.pub-cache/hosted/pub.dev/fluttertoast-8.2.6/android/src/main/res
+io.github.ponnamkarthik.toast.fluttertoast-release-5 /Users/aviralsingh/.pub-cache/hosted/pub.dev/fluttertoast-8.2.6/android/src/release/res
+io.github.ponnamkarthik.toast.fluttertoast-pngs-6 /Users/aviralsingh/AndroidStudioProjects/myapp/build/fluttertoast/generated/res/pngs/release
+io.github.ponnamkarthik.toast.fluttertoast-resValues-7 /Users/aviralsingh/AndroidStudioProjects/myapp/build/fluttertoast/generated/res/resValues/release
+io.github.ponnamkarthik.toast.fluttertoast-rs-8 /Users/aviralsingh/AndroidStudioProjects/myapp/build/fluttertoast/generated/res/rs/release
+io.github.ponnamkarthik.toast.fluttertoast-mergeReleaseResources-9 /Users/aviralsingh/AndroidStudioProjects/myapp/build/fluttertoast/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.github.ponnamkarthik.toast.fluttertoast-mergeReleaseResources-10 /Users/aviralsingh/AndroidStudioProjects/myapp/build/fluttertoast/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.github.ponnamkarthik.toast.fluttertoast-merged_res-11 /Users/aviralsingh/AndroidStudioProjects/myapp/build/fluttertoast/intermediates/merged_res/release
